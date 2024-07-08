@@ -1,0 +1,23 @@
+# Foobar
+
+Sample Django project with DajangoREST, auth, django-toolbar, celery, redis, postgresql
+
+## Installation
+
+How to run (first run)
+
+```bash
+docker compose up --build
+```
+
+## Usage
+
+```bash
+docker compose up -d
+```
+
+## Stop
+
+```bash
+docker compose stop
+```
